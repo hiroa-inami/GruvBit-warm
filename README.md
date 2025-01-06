@@ -1,7 +1,10 @@
 ![preview](preview.png)
 
-For people with sensitive eyes.  
-Based on https://github.com/stianfan/GruvBit
+For people with sensitive eyes.    
+Based on https://github.com/stianfan/GruvBit  
+I reduced every Blue and Green color into half of the original value, Red is untouched.  
+Resulting, more darker, warmer theme.  
+Significantly reduced eye strain lights from your monitors.
 
 # Thank you 
 - [stianfan](https://github.com/stianfan) for sharing awesome theme
